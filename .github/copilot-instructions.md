@@ -16,7 +16,7 @@ This is a Next.js motivation app website with the following specifications:
 
 ## Color Palette
 - Primary Accent: 5A67D8 (Focus, clarity)
-- Secondary Accent: FFF8F0 (Warm, comfort)
+- Secondary Accent: FFFFFF (Clean, pure)
 - Background: F7FAFC (Light, breathable)
 - Surface: EDF2F7 (Calm, neutral)
 - Text Primary: 2D3748 (Strength, readability)
