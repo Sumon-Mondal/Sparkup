@@ -125,7 +125,24 @@ All components follow the established design system with:
 - `/content` - Tabbed content browsing interface  
 - `/relief` - Stress relief tools and digital slime game
 
-## 🚧 Future Enhancements
+## � Deployment
+
+### Deploy on Vercel
+
+The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme).
+
+1. Connect your GitHub repository to Vercel
+2. Vercel will automatically detect it's a Next.js app
+3. Your app will be deployed with a live URL
+
+### Deploy on Netlify
+
+1. Build the app: `npm run build`
+2. Deploy the `.next` folder to Netlify
+3. Set build command to `npm run build`
+4. Set publish directory to `.next`
+
+## �🚧 Future Enhancements
 
 - Add actual content management system
 - Implement breathing exercise component
