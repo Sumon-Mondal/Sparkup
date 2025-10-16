@@ -10,14 +10,14 @@ export default function Home() {
       <ContentTypeSelector />
       
       {/* Featured Motivational Quotes */}
-      <section className="py-20 bg-gradient-to-br from-background to-surface">
-        <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
-          <div className="text-center mb-12">
-            <h2 className="text-3xl md:text-4xl font-bold text-text-primary mb-4">
+      <section className="py-24 bg-white">
+        <div className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8">
+          <div className="text-center mb-16">
+            <h2 className="text-2xl md:text-3xl font-light text-text-primary mb-6 tracking-tight">
               Daily Inspiration
             </h2>
-            <p className="text-lg text-text-secondary max-w-2xl mx-auto">
-              Start your day with wisdom from great minds. Fresh quotes to fuel your motivation.
+            <p className="text-base text-text-secondary max-w-lg mx-auto font-light leading-relaxed">
+              Start your day with wisdom from great minds.
             </p>
           </div>
           <MotivationalQuotes count={3} />

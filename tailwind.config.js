@@ -10,22 +10,22 @@ module.exports = {
   	extend: {
   		colors: {
   			primary: {
-  				'50': '#F7FAFC',
-  				'100': '#EDF2F7',
-  				'500': '#5A67D8',
+  				'50': '#FAFAFA',
+  				'100': '#F5F5F5',
+  				'500': '#404040',
   				DEFAULT: 'hsl(var(--primary))',
   				foreground: 'hsl(var(--primary-foreground))'
   			},
   			secondary: {
-  				'500': '#FFFFFF',
+  				'500': '#F8F8F8',
   				DEFAULT: 'hsl(var(--secondary))',
   				foreground: 'hsl(var(--secondary-foreground))'
   			},
   			background: 'hsl(var(--background))',
-  			surface: '#EDF2F7',
+  			surface: '#F8F8F8',
   			text: {
-  				primary: '#2D3748',
-  				secondary: '#718096'
+  				primary: '#1A1A1A',
+  				secondary: '#666666'
   			},
   			foreground: 'hsl(var(--foreground))',
   			card: {

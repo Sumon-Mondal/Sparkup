@@ -15,16 +15,17 @@ This is a Next.js motivation app website with the following specifications:
 - Routes: /, /content, /relief
 
 ## Color Palette
-- Primary Accent: 5A67D8 (Focus, clarity)
-- Secondary Accent: FFFFFF (Clean, pure)
-- Background: F7FAFC (Light, breathable)
-- Surface: EDF2F7 (Calm, neutral)
-- Text Primary: 2D3748 (Strength, readability)
-- Text Secondary: 718096 (Soft, supportive)
+- Primary Accent: 404040 (Minimalist gray)
+- Secondary Accent: F8F8F8 (Subtle light gray)
+- Background: FFFFFF (Pure white)
+- Surface: F8F8F8 (Subtle light gray)
+- Text Primary: 1A1A1A (Near black)
+- Text Secondary: 666666 (Medium gray)
 
 ## Development Guidelines
 - Use App Router for routing
-- Implement shadcn/ui components (Button, Card, Modal, Tabs)
-- Focus on clean, modern design with emotional resonance
+- Implement shadcn/ui components with minimalist styling
+- Focus on clean, minimalistic design with subtle accents
 - Ensure mobile responsiveness
-- Add smooth transitions and hover effects
+- Use light typography and subtle transitions
+- Emphasize whitespace and clean layouts

@@ -20,12 +20,12 @@ A modern, interactive motivation app built with Next.js, Tailwind CSS, and shadc
 
 | Color Role       | Hex       | Purpose |
 |------------------|-----------|---------|
-| Primary Accent   | #5A67D8   | Focus, clarity |
-| Secondary Accent | #FFFFFF   | Clean, pure |
-| Background       | #F7FAFC   | Light, breathable |
-| Surface          | #EDF2F7   | Calm, neutral |
-| Text Primary     | #2D3748   | Strength, readability |
-| Text Secondary   | #718096   | Soft, supportive |
+| Primary Accent   | #404040   | Minimalist gray |
+| Secondary Accent | #F8F8F8   | Subtle light gray |
+| Background       | #FFFFFF   | Pure white |
+| Surface          | #F8F8F8   | Subtle light gray |
+| Text Primary     | #1A1A1A   | Near black |
+| Text Secondary   | #666666   | Medium gray |
 
 ## 🚀 Getting Started
 
