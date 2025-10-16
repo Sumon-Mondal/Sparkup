@@ -1,5 +1,6 @@
 import { Tabs, TabsContent, TabsList, TabsTrigger } from '@/components/ui/tabs'
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '@/components/ui/card'
+import MotivationalQuotes from '@/components/content/MotivationalQuotes'
 
 export default function ContentPage() {
   return (
@@ -22,23 +23,7 @@ export default function ContentPage() {
           </TabsList>
 
           <TabsContent value="posts" className="space-y-6">
-            <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-              {[1, 2, 3, 4, 5, 6].map((i) => (
-                <Card key={i} className="hover-lift smooth-transition">
-                  <CardHeader>
-                    <CardTitle>Motivational Post #{i}</CardTitle>
-                    <CardDescription>
-                      A powerful message to kickstart your day
-                    </CardDescription>
-                  </CardHeader>
-                  <CardContent>
-                    <p className="text-text-secondary">
-                      This is a placeholder for motivational post content. Replace with actual curated posts.
-                    </p>
-                  </CardContent>
-                </Card>
-              ))}
-            </div>
+            <MotivationalQuotes count={6} />
           </TabsContent>
 
           <TabsContent value="blogs" className="space-y-6">
