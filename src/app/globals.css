@@ -6,7 +6,7 @@
 
 :root {
   --primary-accent: #5A67D8;
-  --secondary-accent: #F6AD55;
+  --secondary-accent: #9F7AEA;
   --surface: #EDF2F7;
   --text-primary: #2D3748;
   --text-secondary: #718096;
@@ -54,7 +54,7 @@ a {
     --popover-foreground: 45 55 72;
     --primary: 235 65 84; /* #5A67D8 */
     --primary-foreground: 0 0% 100%;
-    --secondary: 246 173 85; /* #F6AD55 */
+    --secondary: 271 61 92; /* #9F7AEA - Purple for calm */
     --secondary-foreground: 0 0% 100%;
     --muted: 237 242 247; /* #EDF2F7 */
     --muted-foreground: 113 128 150; /* #718096 */

@@ -27,7 +27,7 @@ const ContentTypeSelector = () => {
       icon: '🎬',
       title: 'Short-form Videos',
       description: 'Visual stories that spark and inspire',
-      color: 'from-secondary to-orange-400',
+      color: 'from-indigo-400 to-purple-500',
     },
   ]
 
