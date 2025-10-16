@@ -21,7 +21,7 @@ A modern, interactive motivation app built with Next.js, Tailwind CSS, and shadc
 | Color Role       | Hex       | Purpose |
 |------------------|-----------|---------|
 | Primary Accent   | #5A67D8   | Focus, clarity |
-| Secondary Accent | #9F7AEA   | Calm, creativity |
+| Secondary Accent | #FFF8F0   | Warm, comfort |
 | Background       | #F7FAFC   | Light, breathable |
 | Surface          | #EDF2F7   | Calm, neutral |
 | Text Primary     | #2D3748   | Strength, readability |
